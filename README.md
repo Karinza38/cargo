@@ -1,4 +1,4 @@
-# Cargo
+ # Cargo
 
 Cargo downloads your Rust project’s dependencies and compiles your project.
 
